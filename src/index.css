@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-black text-zinc-300 font-sans antialiased selection:bg-pink-500/30 selection:text-pink-200 transition-colors duration-300;
+}
+
+/* Light Mode Overrides */
+body.light-mode {
+  @apply bg-zinc-50 text-zinc-700 selection:bg-pink-500/20 selection:text-pink-900;
+}
+body.light-mode .bg-black { @apply bg-white; }
+body.light-mode .bg-zinc-900 { @apply bg-zinc-100; }
+body.light-mode .bg-zinc-900\/80 { @apply bg-white/80; }
+body.light-mode .bg-zinc-900\/50 { @apply bg-white/50; }
+body.light-mode .bg-zinc-900\/40 { @apply bg-white/60; }
+body.light-mode .bg-zinc-800 { @apply bg-zinc-200; }
+body.light-mode .bg-zinc-800\/50 { @apply bg-zinc-100; }
+body.light-mode .bg-zinc-800\/30 { @apply bg-zinc-50; }
+
+body.light-mode .text-white { @apply text-zinc-900; }
+body.light-mode .text-zinc-300 { @apply text-zinc-600; }
+body.light-mode .text-zinc-400 { @apply text-zinc-500; }
+body.light-mode .text-zinc-500 { @apply text-zinc-400; }
+
+body.light-mode .border-zinc-800 { @apply border-zinc-200; }
+body.light-mode .border-zinc-800\/50 { @apply border-zinc-200/50; }
+body.light-mode .border-zinc-700 { @apply border-zinc-300; }
+body.light-mode .border-zinc-700\/50 { @apply border-zinc-300/50; }
+body.light-mode .border-zinc-700\/30 { @apply border-zinc-200; }
+
+body.light-mode .hover\:bg-zinc-800:hover { @apply bg-zinc-200; }
+body.light-mode .hover\:text-white:hover { @apply text-zinc-900; }

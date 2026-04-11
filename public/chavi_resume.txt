@@ -1,0 +1,87 @@
+Chavi Verma
++91 9717896121 | chaviverma100@gmail.com | LinkedIn | GitHub | LeetCode | Live Project
+PROFESSIONAL SUMMARY
+Aspiring Software Engineer and B.Tech CSE.Deployed production-grade applications including a live Neural Search engine and a
+JWT-secured MERN full-stack expense tracker. Solved 200+ LeetCode problems (Arrays, Trees, DP, Graphs) with strong
+command of system design and algorithms. Seeking a Software Development / Full-Stack Engineering Internship to build
+scalable, high-impact products.
+EXPERIENCE
+
+Microsoft Azure Intern​
+
+Jan 2026 – Feb 2026
+Microsoft Elevate Program & AICTE​
+Remote
+•​ Provisioned Azure infrastructure maintaining 99.9% uptime for IaaS/PaaS deployments across 3+ cloud environments.
+•​ Optimized resource utilization using Azure Monitor and cost-management tools, reducing simulated over-provisioning by 30%.
+
+Cybersecurity Intern​
+
+Jun 2025 – Aug 2025
+Cisco Networking Academy​
+Remote
+•​ Identified and mitigated 2+ critical threat vectors via vulnerability assessments and penetration testing across simulated enterprise networks.
+•​ Completed 10+ hands-on labs in firewall configuration, intrusion detection, and access control, improving simulated security
+posture by 40%.
+
+AI & Machine Learning Intern​
+
+Jun 2025 – Jul 2025
+Edunet Foundation & AICTE​
+Remote
+•​ Built 3+ supervised ML models (Python, Scikit-learn, Pandas), achieving up to 85% classification accuracy; developed NLP
+pipelines for text classification with tokenization and feature extraction.
+
+Front-End Web Development Intern​
+
+Aug 2025 – Sep 2025
+IBM & AICTE​
+Remote
+•​ Built 4+ responsive UIs (HTML5, CSS3, JavaScript) with consistent rendering across 5+ device breakpoints, applying accessibility and performance optimization best practices.
+PROJECTS
+
+Neural Search & Semantic Information Retrieval Engine​
+
+Jan 2026 – Feb 2026
+Python, Sentence Transformers, Vector Embeddings, NLP, Cosine Similarity, Streamlit​ [GitHub] | [Live]
+•​ Architected a semantic search engine cutting retrieval time by ~40% over keyword search across 50+ documents using
+sentence- transformer embeddings and cosine similarity ranking.
+•​ Built end-to-end NLP pipeline (preprocessing → embedding → vector indexing → ranked retrieval) deployed as a live Streamlit
+web app.
+
+MERN Full-Stack Expense Tracking Platform​
+
+Nov 2025 – Dec 2025
+
+React.js, Node.js, Express.js, MongoDB, JWT, REST API​ [GitHub]
+•​ Engineered full-stack MERN app with JWT auth, role-based access control, and RESTful backend.
+•​ Designed React dashboards for real-time income/expense analytics with secure MongoDB CRUD operations and input
+validation.
+TECHNICAL SKILLS​
+Languages​
+Frontend​
+Backend​
+Databases​
+AI/ML & Cloud​
+Tools​
+
+C++, Python
+HTML5, CSS3
+REST API, JWT Authentication
+MongoDB, MySQL
+Scikit-learn, Pandas, NLP, Vector Embeddings, Microsoft Azure (IaaS/PaaS), GCP, Streamlit
+Git, GitHub, VS Code
+
+EDUCATION
+
+Inderprastha Engineering College, Ghaziabad​
+B.Tech in Computer Science & Engineering​
+Coursework: DSA, Operating Systems, DBMS, Computer Networks, System Design, OOP
+CERTIFICATIONS & ACHIEVEMENTS
+Oracle Certified Generative AI Professional — Oracle University, Sep 2025
+Oracle Certified Foundations Associate — Oracle University, Oct 2025
+
+Aug 2023 – Aug 2027 (Expected)
+CGPA: 8.0 / 10
+
+
